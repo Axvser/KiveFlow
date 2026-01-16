@@ -9,8 +9,8 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-1. 若非CVTE内部使用，则软件不允许包含任何CVTE的商标、标识、名称、代码等信息
-2. 若非CVTE内部使用，则软件必须包含此LICENSE文件
+1. 若非CVTE内部使用, 则软件(含源码)不允许包含任何CVTE的商标、标识、名称、代码等信息
+2. 若非CVTE内部使用, 则软件(含源码)必须包含此LICENSE文件
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
