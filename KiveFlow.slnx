@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="KiveFlow.Android/KiveFlow.Android.csproj" />
+  <Project Path="KiveFlow.Browser/KiveFlow.Browser.csproj" />
+  <Project Path="KiveFlow.Desktop/KiveFlow.Desktop.csproj" />
+  <Project Path="KiveFlow.iOS/KiveFlow.iOS.csproj" />
+  <Project Path="KiveFlow/KiveFlow.csproj" />
+</Solution>
