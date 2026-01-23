@@ -23,4 +23,10 @@
     <PackageReference Include="CommunityToolkit.Mvvm" />
     <PackageReference Include="VeloxDev.Avalonia" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Terminals\" />
+    <Folder Include="ViewModels\Terminals\Workflows\" />
+    <Folder Include="Views\Terminals\Workflows\" />
+  </ItemGroup>
 </Project>
